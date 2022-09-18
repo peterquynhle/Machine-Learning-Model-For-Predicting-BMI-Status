@@ -1,5 +1,5 @@
 # Predicting BMI status using a Random Forest Classification model
-This project is to review, comment, and update where necessarya Random Forest Classification model to predict BMI status. ML codes originally from the following sources:
+This project is to review, comment, and update where necessary a Random Forest Classification model to predict BMI status. ML codes originally from the following sources:
 
  - https://www.kaggle.com/devprabal/bmi-prediction-of-health-status
  - https://github.com/devprabal/BMI-prediction-of-health-status.git 
